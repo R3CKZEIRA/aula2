@@ -1,5 +1,5 @@
 {
-  "name": "git-teste1",
+  "name": "aula2",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/R3CKZEIRA/git-teste1.git"
+    "url": "git+https://github.com/R3CKZEIRA/aula2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/R3CKZEIRA/git-teste1/issues"
+    "url": "https://github.com/R3CKZEIRA/aula2/issues"
   },
-  "homepage": "https://github.com/R3CKZEIRA/git-teste1#readme",
+  "homepage": "https://github.com/R3CKZEIRA/aula2#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
